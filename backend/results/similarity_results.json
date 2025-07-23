@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "model_used": "all-MiniLM-L6-v2",
+    "embedding_dimension": 384,
+    "timestamp": "2025-07-23T17:05:16.887786",
+    "total_documents": 2,
+    "total_pairs_analyzed": 1,
+    "pairs_above_threshold": 1,
+    "min_threshold": 0.1
+  },
+  "documents": [
+    {
+      "name": "CV.pdf",
+      "path": "C:\\Users\\S4C\\Desktop\\newwwwww\\backend\\data\\input\\documents\\CV.pdf",
+      "size": 239544,
+      "extension": ".pdf"
+    },
+    {
+      "name": "Mahmoud_AbuAwd_Resume.pdf",
+      "path": "C:\\Users\\S4C\\Desktop\\newwwwww\\backend\\data\\input\\documents\\Mahmoud_AbuAwd_Resume.pdf",
+      "size": 257789,
+      "extension": ".pdf"
+    }
+  ],
+  "similarities": [
+    {
+      "doc1": "CV.pdf",
+      "doc2": "Mahmoud_AbuAwd_Resume.pdf",
+      "score": 0.9002957344055176,
+      "doc1_path": "C:\\Users\\S4C\\Desktop\\newwwwww\\backend\\data\\input\\documents\\CV.pdf",
+      "doc2_path": "C:\\Users\\S4C\\Desktop\\newwwwww\\backend\\data\\input\\documents\\Mahmoud_AbuAwd_Resume.pdf",
+      "doc1_size": 239544,
+      "doc2_size": 257789
+    }
+  ],
+  "statistics": {
+    "mean_similarity": 0.9002957344055176,
+    "max_similarity": 0.9002957344055176,
+    "min_similarity": 0.9002957344055176,
+    "std_similarity": 0.0,
+    "median_similarity": 0.9002957344055176
+  }
+}
