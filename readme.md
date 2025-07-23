@@ -33,8 +33,8 @@
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/document-similarity.git
-cd document-similarity
+git clone https://github.com/your-username/DocumentSimilarity.git
+cd DocumentSimilarity
 
 # Install dependencies
 pip install -r requirements.txt
@@ -125,38 +125,3 @@ We welcome contributions! Please follow these steps:
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## ✉️ Contact
-
-Project Maintainer - [Your Name](mailto:your.email@example.com)
-
-Project Link: [https://github.com/your-username/document-similarity](https://github.com/your-username/document-similarity)
-
----
-
-<div align="center">
-  
-![Footer](https://github.com/your-username/document-similarity/blob/main/assets/footer.png?raw=true)
-
-</div>
-```
-
-## 🎨 Visual Assets
-
-For this README to work perfectly, you'll need to create these assets in a `/assets` folder:
-
-1. **banner.gif** - An animated demo of your application
-2. **upload-demo.gif** - Showing file upload process
-3. **analysis-demo.gif** - Showing analysis in action
-4. **viz-demo.gif** - Showing visualizations
-5. **search-demo.gif** - Showing query search
-6. **footer.png** - Optional decorative footer
-
-You can create these GIFs using screen recording tools like:
-- [ScreenToGif](https://www.screentogif.com/) (Windows)
-- [Giphy Capture](https://giphy.com/apps/giphycapture) (Mac)
-- [Peek](https://github.com/phw/peek) (Linux)
-
-For the mermaid diagrams, they'll automatically render on GitHub and in most modern Markdown viewers.
-
-Would you like me to provide specific content for any of the GIFs or suggest alternative visualization approaches?
