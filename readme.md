@@ -1,6 +1,3 @@
-Here's a professional `README.md` file for your Document Similarity project with visual enhancements:
-
-```markdown
 # 📄 Document Similarity Analyzer
 
 ![Project Banner](https://github.com/your-username/document-similarity/blob/main/assets/banner.gif?raw=true)
